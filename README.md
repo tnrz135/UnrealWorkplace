@@ -1,2 +1,1 @@
-# [Enter Game Title]
-
+# Maze 101
